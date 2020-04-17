@@ -5,19 +5,23 @@ import React, { Component } from 'react';
         return (
           <div>
             <p>
-              Pellentesque habitant morbi tristique senectus et netus et
-              malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat
-              vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit
-              amet quam egestas semper. Aenean ultricies mi vitae est. Mauris
-              placerat eleifend leo. Quisque sit amet est et sapien ullamcorper
-              pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae,
-              ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt
-              condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac
-              dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
-              Praesent dapibus, neque id cursus faucibus, tortor neque egestas
-              augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam
-              dui mi, tincidunt quis, accumsan porttitor, facilisis luctus,
-              metus
+              Lorem ipsum dolor sit amet consectetur adipiscing elit, turpis
+              nibh ornare himenaeos congue tristique, donec cursus ante class
+              purus eu. Eget augue viverra in urna dis hendrerit dictum tortor
+              erat, nisi at dui convallis curabitur leo sem facilisi velit, a
+              maecenas cum tempus tincidunt iaculis donec placerat. Pellentesque
+              montes natoque platea sociosqu sodales ante penatibus, in odio
+              egestas aliquet cubilia primis gravida massa, nunc at mattis
+              elementum sed cursus.
+            </p>
+            <p>
+              Cursus penatibus fames est massa proin in, morbi ut nostra sociis
+              interdum. Sollicitudin ante dictum turpis molestie nunc varius ad,
+              tincidunt montes nam tempus lobortis dictumst cursus suscipit,
+              proin fames luctus diam litora aptent. Maecenas eu arcu aliquet
+              ullamcorper id lacus morbi habitant, fringilla ultrices bibendum
+              aliquam erat donec nisl molestie, libero malesuada per primis
+              facilisi elementum urna.
             </p>
           </div>
         );
