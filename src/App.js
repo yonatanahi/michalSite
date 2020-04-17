@@ -8,7 +8,7 @@ import Gallery from "./components/Gallery";
 function App() {
   return (
     <Router>
-      <h1>Michal's Site</h1>
+      <h1>Michal's Art</h1>
       <Link to="/" className="link">
         Home
       </Link>

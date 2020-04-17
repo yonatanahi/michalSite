@@ -5,9 +5,15 @@ class Contact extends Component {
     return (
       <div>
         <form action="">
-            <label htmlFor="">Name:</label>
-            <input type="text"/>
-            <input type="submit" value="Submit"></input>
+          <label htmlFor="">Name:</label>
+          <input type="text" />
+          <br />
+          <label htmlFor="">Email:</label>
+          <input type="text" />
+          <br/>
+          <textarea placeholder="Leave a feedback..."></textarea>
+          <br />
+          <input type="submit" value="Submit"></input>
         </form>
       </div>
     );
