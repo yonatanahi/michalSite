@@ -8,19 +8,22 @@ import Gallery from "./components/Gallery";
 function App() {
   return (
     <Router>
-      <h1>Michal's Art</h1>
+      <div>
+      <h1>האתר של מיכל</h1>
       <Link to="/" className="link">
-        Home
+        בית
       </Link>
       <Link to="/about" className="link">
-        About
+        אודות
       </Link>
       <Link to="/gallery" className="link">
-        Gallery
+        גלריה
       </Link>
       <Link to="/contact" className="link">
-        Contact
+        צור קשר
       </Link>
+      </div>
+      
 
       <Route path="/about" component={About} />
       <Route path="/gallery" component={Gallery} />

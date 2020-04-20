@@ -5,23 +5,23 @@ import React, { Component } from 'react';
         return (
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipiscing elit, turpis
-              nibh ornare himenaeos congue tristique, donec cursus ante class
-              purus eu. Eget augue viverra in urna dis hendrerit dictum tortor
-              erat, nisi at dui convallis curabitur leo sem facilisi velit, a
-              maecenas cum tempus tincidunt iaculis donec placerat. Pellentesque
-              montes natoque platea sociosqu sodales ante penatibus, in odio
-              egestas aliquet cubilia primis gravida massa, nunc at mattis
-              elementum sed cursus.
+              מאז ומתמיד נגעתי באומנות, למרות שלא התכוונתי, למרות שברחתי כל
+              הזמן, האומנות "רדפה" אחרי, הציצה מכל פינה, דיגדגה אותי ואני
+              התעלמתי שנים רבות.
             </p>
             <p>
-              Cursus penatibus fames est massa proin in, morbi ut nostra sociis
-              interdum. Sollicitudin ante dictum turpis molestie nunc varius ad,
-              tincidunt montes nam tempus lobortis dictumst cursus suscipit,
-              proin fames luctus diam litora aptent. Maecenas eu arcu aliquet
-              ullamcorper id lacus morbi habitant, fringilla ultrices bibendum
-              aliquam erat donec nisl molestie, libero malesuada per primis
-              facilisi elementum urna.
+              במשך כל השנים האלו הייתה לי תמיד תחושה פנימית כזו לא מובנת, לא
+              ברורה, תחושה שחסר לי משהו... מה זה? מה? והתשובה הייתה כל הזמן
+              לפניי אך סירבתי לראותה, עד שלפני מספר שנים פרצה לחיי אהבת חיי, בת
+              זוגי, אשר העירה בי שמחת חיים, אהבה, אושר ואור ופתאום התחושה
+              הפנימית התבהרה.. ציור...חסר לי לצייר, אני רוצה לצייר..., לא
+              גרפיקה, לא צילום, לצייר.... איפה? איך? במה להתחיל? חיפשתי וחיפשתי
+              עד ששמעתי מילדה קטנה שיש מורה לציור מדהימה, תנסי אמרה לי הילדה,
+              וניסיתי.
+            </p>
+            <p>
+              הגעתי לאותו מקום שבו ציירתי בילדותי. המקום השתנה וגם המורה השתנתה
+              וגם התחושה הפנימית החסרה התמלאה לתחושה מלאה באושר שמחה ושלווה.
             </p>
           </div>
         );

@@ -1,13 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 
 body{
   background-color: darkslategray;
-    font-family: 'Josefin Sans', cursive;
+  font-family: 'Amatic SC', cursive;
+  height: 100vh;
 }
 
 .link{
   padding: 10px;
   color: azure;
+  font-size: larger;
 }
 
 img{
@@ -20,6 +22,9 @@ p{
   width: 500px;
   padding: 10px;
   color: beige;
+  font-size: large;
+  text-align: center;
+  margin: auto
 }
 
 h1{
@@ -40,4 +45,8 @@ textarea{
   width: 300px;
   height: 200px;
   margin: 10px;
+}
+
+div{
+text-align: center;
 }
