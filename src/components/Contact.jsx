@@ -52,7 +52,7 @@ class Contact extends Component {
           </label>
 
           <br />
-          <input type="submit" value="שלח"></input>
+          <button>שלח</button>
         </form>
       </div>
     );

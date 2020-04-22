@@ -8,10 +8,10 @@ class Gallery extends Component {
   render() {
     return (
       <div>
-        <img src={Tree} alt="" />
-        <img src={Woman} alt="" />
-        <img src={Temple} alt="" />
-        <img src={Iceberg} alt="" />
+        <img src={Tree} alt="" className="gallery" />
+        <img src={Woman} alt="" className="gallery" />
+        <img src={Temple} alt="" className="gallery" />
+        <img src={Iceberg} alt="" className="gallery" />
       </div>
     );
   }
