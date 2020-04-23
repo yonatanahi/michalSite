@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alef&display=swap');
 
 body{
   background-image: url("./assets/Birds.jpg");
   background-size: cover;
   height: 100vh;
+  font-family: 'Alef', sans-serif;
 }
 
 .link{
@@ -13,7 +15,7 @@ body{
 
 }
 
-.gallery{
+.galleryImage{
   width: 500px;
   height: 500px;
   padding: 10px;
@@ -30,9 +32,9 @@ p{
 }
 
 h1{
-  padding: 5px;
   color: beige;
   font-size: 50px;
+  margin: 0;
 }
 
 label{
@@ -71,4 +73,11 @@ button{
 
 span{
     vertical-align: super;
+}
+
+#galleryDiv{
+  opacity: 1;  
+  height: 500px; 
+  overflow-y: scroll;
+  background-color: wheat;
 }

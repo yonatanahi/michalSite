@@ -1,3 +1,4 @@
-* Adding logo
-* Choosing readable font (cursive)
-* Adding background photo
+* Choosing logo
+* Choosing background photo
+* Adding Gallery viewer
+* Contact form - Checking mail options

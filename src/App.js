@@ -9,7 +9,7 @@ import Logo from "./assets/Logo.jpeg";
 function App() {
   return (
     <Router>
-      <div>
+      <header>
         <Link to="/" className="link">
           <h1>
             <span>מיכל וינברגר</span>
@@ -25,7 +25,7 @@ function App() {
         <Link to="/contact" className="link">
           צור קשר
         </Link>
-      </div>
+      </header>
 
       <Route path="/about" component={About} />
       <Route path="/gallery" component={Gallery} />
