@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Alef&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
 
 body{
-  background-image: url("./assets/Birds.jpg");
+  background-image: url("./assets/Duck.jpg");
   background-size: cover;
   height: 100vh;
-  font-family: 'Alef', sans-serif;
-}
+  font-family: 'Bellefair', serif;
+  }
 
 .link{
   padding: 10px;
-  color: azure;
+  color: #123a0f;
   font-size: 30px;
   text-decoration: none;
 
@@ -24,17 +24,18 @@ body{
 p{
   width: 500px;
   padding: 10px;
-  font-size: 22px;
+  font-size: 25px;
   text-align: center;
-  margin: auto;
   direction: rtl;
   color: white;
+  text-align: right;
 }
 
 h1{
-  color: beige;
+  color: #123a0f;
   font-size: 50px;
   margin: 0;
+  margin-left: 310px;
 }
 
 label{
@@ -55,21 +56,12 @@ textarea{
   opacity: 0.3;
 }
 
-div{
-text-align: center;
-}
 
 button{
   font-size: 20px;
   opacity: 0.3;
 }
 
-#logo{
-  height: 100px;
-  width: 100px;
-  display: inline-block;
-  padding: 5px;
-}
 
 span{
     vertical-align: super;
@@ -79,5 +71,17 @@ span{
   opacity: 1;  
   height: 500px; 
   overflow-y: scroll;
-  background-color: wheat;
+  background-color: white;
+}
+
+#links{
+  margin-left: 280px;
+}
+
+img{
+  opacity: 0.3;
+}
+
+img:hover {
+  opacity: 1;
 }

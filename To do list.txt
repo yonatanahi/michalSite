@@ -2,3 +2,4 @@
 * Choosing background photo
 * Adding Gallery viewer
 * Contact form - Checking mail options
+* Change tab icon 

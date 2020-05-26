@@ -4,7 +4,6 @@ import './App.css';
 import About from './components/About';
 import Contact from "./components/Contact";
 import Gallery from "./components/Gallery";
-import Logo from "./assets/Logo.jpeg";
 
 function App() {
   return (
@@ -13,18 +12,19 @@ function App() {
         <Link to="/" className="link">
           <h1>
             <span>מיכל וינברגר</span>
-            <img id="logo" src={Logo} alt="Logo" />
           </h1>
         </Link>
-        <Link to="/about" className="link">
-          אודות
-        </Link>
-        <Link to="/gallery" className="link">
-          גלריה
-        </Link>
-        <Link to="/contact" className="link">
-          צור קשר
-        </Link>
+        <div id="links">
+          <Link to="/about" className="link">
+            אודות
+          </Link>
+          <Link to="/gallery" className="link">
+            גלריה
+          </Link>
+          <Link to="/contact" className="link">
+            צור קשר
+          </Link>
+        </div>
       </header>
 
       <Route path="/about" component={About} />
